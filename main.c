@@ -1,5 +1,4 @@
 //main.c
-//author:小江71122175
 
 #include <iostream>
 using namespace std;
